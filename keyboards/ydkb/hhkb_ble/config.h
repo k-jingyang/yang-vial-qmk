@@ -96,4 +96,3 @@
 #define NO_DEFAULT_COMMAND
 #define NO_RESET
 
-#define TAPPING_TERM 300
