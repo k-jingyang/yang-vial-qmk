@@ -95,3 +95,6 @@ compile_commands.json
 .clangd/
 .cache/
 *.cmd
+
+# built firmware
+HHKB_BLE.BIN
